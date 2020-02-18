@@ -1,3 +1,10 @@
+// Chiedere età
+// Chiedere quanti km deve percorrere
+// prezzo biglietto = 0,21 ogni km
+// applicare sconto giovani del 20%
+// applicare sconto anziani del 40%
+
+
 var anni = prompt('Inserisci la tua età');
 var kilometri = prompt('Inserisci la distanza da percorrere');
 var costoPerKm = 0.21;
